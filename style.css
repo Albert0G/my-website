@@ -1,0 +1,135 @@
+body{
+    background-color: rgb(211, 135, 22); /*changes background colour*/
+    background-image:url(images/abstract-5035778_1920.jpg) ;
+    color:aliceblue; /*changes text colour*/
+    font-size: 30px;
+}
+
+.ninja{
+    background-color: rgb(71, 88, 247);
+    height: 700px;
+    width: 60%;
+    float:left; /*makes the boxes go next to each other*/
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.ninja1{
+    background-color: cornflowerblue;
+    height: 700px;
+    width: 30%;
+    float:right;
+
+
+
+ }
+
+nav{
+    background-color: rgb(43, 113, 243);
+    height: auto;
+    width: 80%;
+    float:left; /*makes the boxes go next to each other*/
+    
+    padding-left: 5%;/*makes the text inside the box move right*/
+    padding-top:10px;/*makes the text inside the box move down*/
+    margin-top:50px; 
+
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+    
+    padding-top: 5px;
+    padding-left: 100px;
+}
+
+.boxl{
+    background-color: rgb(105, 36, 233);
+    height: 1000px;
+    width: 25%;
+    float:left; /*makes the boxes go next to each other*/ 
+}
+
+.boxm{
+    background-color: rgb(77, 72, 151);
+    height: 1000px;
+    width: 50%;
+    float:left; /*makes the boxes go next to each other*/ 
+}
+
+.boxn{
+    background-color: rgb(105, 36, 233);
+    height: 1000px;
+    width: 25%;
+    float:left; /*makes the boxes go next to each other*/ 
+}
+
+.boxa{
+    background-color: rgb(74, 54, 187);
+    height: 1000px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+}
+
+.boxb{
+    background-color: rgb(74, 54, 187);
+    height: 1000px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+}
+
+.boxc{
+    background-color: rgb(74, 54, 187);
+    height: 1000px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+}
+
+.box1{
+    background-color: rgb(74, 54, 187);
+    height: 600px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+    margin-top: 50px;
+}
+
+.box2{
+    background-color: rgb(74, 54, 187);
+    height: 600px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+    margin-top: 50px;
+}
+
+.box3{
+    background-color: rgb(74, 54, 187);
+    height: 600px;
+    width: 26%;
+    float:left; /*makes the boxes go next to each other*/ 
+    margin-left: 3%;
+    padding: 2%;
+    margin-top: 50px;
+}

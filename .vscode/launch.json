@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "request": "launch",
+            "name": "Open home.html",
+            "file": "\\\\b-all-data03.resource.bpc.internal\\Data03\\8\\10656418\\Desktop\\L3 IT\\KAY\\WEBSITE code\\home.html"
+        }
+    ]
+}
